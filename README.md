@@ -9,3 +9,8 @@ Exploratory Data Analysis of the data FiveThirtyEight gathered from the Centers 
 
 ### Source
 [FiveThirtyEight](http://fivethirtyeight.com/) gathered data from the [Centers for Disease Control and Prevention](https://www.cdc.gov/) and the [Federal Bureau of Investigation](https://www.fbi.gov/) on gun deaths from 2012 through 2014. They made their dataset available to the public [here](https://github.com/fivethirtyeight/guns-data). Thanks FiveThirtyEight!
+
+### File Contents
+* A Jupyter Notebook file ('Exploring Gun Deaths in the US.ipynb') for running the data analysis 
+* Cleaned datasets of gun deaths ('guns.csv') and U.S. population demographics ('census.csv'). 
+Note: For a guide to installing Jupyter, see [here](http://jupyter.org/install.html)
